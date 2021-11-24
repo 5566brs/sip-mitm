@@ -1,11 +1,8 @@
 # sip-mitm
-SIP에 MITM을 가해 다운그레이드 공격을 시도하여 SIP 계정과 패스워드를 알아냅니다.
+illustration of sip mitm attak + digest protected password crack (only for a numeric password for now)
 
-# 사용법
-[사용법 확인](https://koreapyj.dcmys.kr/152)
+# caution
+The project is for study purposes only, the author is not responsible for, and makes no warranty of any kind, results from the use of this code.
 
-# 주의사항
-제작자는 이 코드를 이용하여 발생한 어떠한 형태의 결과에도 책임지지 않으며, 어떠한 보장도 하지 않습니다. 이 코드를 이용하는 것은 본인에게 책임이 있음을 이해하는 경우에만 사용하시기 바랍니다.
-
-# 라이선스
+# License
 GNU AGPL v3
